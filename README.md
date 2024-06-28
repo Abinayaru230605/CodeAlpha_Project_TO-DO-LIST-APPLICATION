@@ -131,3 +131,6 @@ int main() {
   - It then enters a do-while loop to continuously prompt the user for their choice of action (Add Task, Mark Task Completed, View Tasks, or Exit).
   - Based on the user's choice, it calls the appropriate function.
   - If the user chooses to exit (choice 4), the loop terminates and the program ends.
+ 
+  - ![WhatsApp Image 2024-06-28 at 13 18 53_17ac6041](https://github.com/Abinayaru230605/CodeAlpha_Project_TO-DO-LIST-APPLICATION/assets/167668420/6537bc7f-5147-4b0e-94d6-61f95f3e6e18)
+
