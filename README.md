@@ -132,5 +132,25 @@ int main() {
   - Based on the user's choice, it calls the appropriate function.
   - If the user chooses to exit (choice 4), the loop terminates and the program ends.
  
-  - ![WhatsApp Image 2024-06-28 at 13 18 53_17ac6041](https://github.com/Abinayaru230605/CodeAlpha_Project_TO-DO-LIST-APPLICATION/assets/167668420/6537bc7f-5147-4b0e-94d6-61f95f3e6e18)
+
+  ![WhatsApp Image 2024-06-28 at 13 18 53_2c77e40a](https://github.com/Abinayaru230605/CodeAlpha_Project_TO-DO-LIST-APPLICATION/assets/167668420/9b073a71-f3a9-498b-988b-0f1f66694f40)
+  ![WhatsApp Image 2024-06-28 at 13 18 53_037973a0](https://github.com/Abinayaru230605/CodeAlpha_Project_TO-DO-LIST-APPLICATION/assets/167668420/d24597d4-b4d6-40d1-a2c1-54ac7df6db4b)
+![WhatsApp Image 2024-06-28 at 13 18 53_44a0417d](https://github.com/Abinayaru230605/CodeAlpha_Project_TO-DO-LIST-APPLICATION/assets/167668420/10fc1d09-5de3-4fdc-8761-e2efe3102bb7)
+![WhatsApp Image 2024-06-28 at 13 18 54_6ed34170](https://github.com/Abinayaru230605/CodeAlpha_Project_TO-DO-LIST-APPLICATION/assets/167668420/b88db44d-330d-4f2a-a9d2-c6f76f70eca3)
+![WhatsApp Image 2024-06-28 at 13 18 54_9cdbfe92](https://github.com/Abinayaru230605/CodeAlpha_Project_TO-DO-LIST-APPLICATION/assets/167668420/93ee8c35-b991-4ed9-ade9-ebae90dd608c)
+![WhatsApp Image 2024-06-28 at 13 18 54_e3b3ea9c](https://github.com/Abinayaru230605/CodeAlpha_Project_TO-DO-LIST-APPLICATION/assets/167668420/4e61c658-1ef8-4411-83f2-a24fa1c59d32)
+![WhatsApp Image 2024-06-28 at 13 18 54_057acd3e](https://github.com/Abinayaru230605/CodeAlpha_Project_TO-DO-LIST-APPLICATION/assets/167668420/64fca20c-de15-4603-94b7-6c4b96954c56)
+![WhatsApp Image 2024-06-28 at 13 18 55_1e33f651](https://github.com/Abinayaru230605/CodeAlpha_Project_TO-DO-LIST-APPLICATION/assets/167668420/3ddfa699-9c84-4b91-9af5-ffeceaa73243)
+![WhatsApp Image 2024-06-28 at 13 18 55_a74f53ec](https://github.com/Abinayaru230605/CodeAlpha_Project_TO-DO-LIST-APPLICATION/assets/167668420/f8168b16-591f-450a-9a98-b0fe054c6e70)
+![WhatsApp Image 2024-06-28 at 13 18 55_c841e0f8](https://github.com/Abinayaru230605/CodeAlpha_Project_TO-DO-LIST-APPLICATION/assets/167668420/00bf3388-6d5b-4e68-8960-7a02e2f79fe3)
+![WhatsApp Image 2024-06-28 at 13 18 55_da324f6b](https://github.com/Abinayaru230605/CodeAlpha_Project_TO-DO-LIST-APPLICATION/assets/167668420/36339ea9-fdc9-420d-b6bb-0b3b1080b326)
+![WhatsApp Image 2024-06-28 at 13 18 55_37e33ec4](https://github.com/Abinayaru230605/CodeAlpha_Project_TO-DO-LIST-APPLICATION/assets/167668420/4234e1bb-600b-401f-adbb-8b53b34c284f)
+
+
+
+
+
+
+
+
 
